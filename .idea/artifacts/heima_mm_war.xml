@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="heima_mm:war">
+    <output-path>$PROJECT_DIR$/../heima_mm/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>heima_mm</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="heima_mm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="heima_mm:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:31:35 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-82-exec-2 44
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:31:37 +0800] "GET /login.html HTTP/1.1" 304 - http-bio-82-exec-3 16
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:31:39 +0800] "POST /member/login HTTP/1.1" 200 198 http-bio-82-exec-4 1031
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:33:38 +0800] "GET /login.html HTTP/1.1" 304 - http-bio-82-exec-6 2
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:33:38 +0800] "GET /img/asset-favicon.ico HTTP/1.1" 200 4286 http-bio-82-exec-8 36
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:33:39 +0800] "POST /member/login HTTP/1.1" 200 198 http-bio-82-exec-9 5
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:33:57 +0800] "GET /index.html HTTP/1.1" 200 11699 http-bio-82-exec-10 2
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:38:36 +0800] "GET /index.html HTTP/1.1" 304 - http-bio-82-exec-4 2
+0:0:0:0:0:0:0:1 - - [26/Sep/2021:08:38:43 +0800] "GET /group/6760571446231040523/ HTTP/1.1" 404 1003 http-bio-82-exec-4 2

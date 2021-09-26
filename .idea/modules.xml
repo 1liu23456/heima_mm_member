@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../heima_mm/heima_mm.iml" filepath="$PROJECT_DIR$/../heima_mm/heima_mm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mm_exam.iml" filepath="$PROJECT_DIR$/mm_exam.iml" />
+    </modules>
+  </component>
+</project>
